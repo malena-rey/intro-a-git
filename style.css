@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    background-color: lightgreen;
+}
